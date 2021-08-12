@@ -24,6 +24,8 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-alawami&" alt="ali-alawami" /></p>
 
+![](https://komarev.com/ghpvc/?username=ali-alawami&color=green)
+
 
 
 <!--
